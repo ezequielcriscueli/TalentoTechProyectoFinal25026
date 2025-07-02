@@ -3,7 +3,7 @@ Por Eduardo Ezequiel Criscueli
 
 Este es un trabajo Java desarrollado con Spring Boot como parte del curso de Talento Tech Back-End. La aplicación está pensada como un sistema de gestión de carrito de compras, utilizando tecnologías modernas como Spring Web, Spring Data JPA y conexión a base de datos MySQL.
 
-Tecnologías Utilizadas
+Tecnologías Utilizadas:
 
 - Java 17
 - Spring Boot 3.5.3
@@ -14,7 +14,7 @@ Tecnologías Utilizadas
 
 Configuración y Ejecución:
 
-Requisitos previos
+Requisitos previos:
 
 - Java 17 o superior
 - Maven 3.8+
